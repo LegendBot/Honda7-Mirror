@@ -27,7 +27,7 @@ end
 local RequireI = Require("SourceLib")
 RequireI:Add("vPrediction", "https://raw.github.com/LegendBot/Scripts/master/Common/VPrediction.lua")
 RequireI:Add("SOW", "https://raw.github.com/LegendBot/Scripts/master/Common/SOW.lua")
-RequireI:Check())
+RequireI:Check()
 
 if RequireI.downloadNeeded == true then return end
 
