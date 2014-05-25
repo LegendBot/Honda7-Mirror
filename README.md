@@ -1,6 +1,13 @@
 Honda7 Mirror Repository
 ========================
 
+Information:
+------------
+
+- [Get official updates here][10]
+
+  [10]: http://botoflegends.com/forum/topic/22778-official-fork-honda7s-repo/
+
 Scripts;
 --------
 
