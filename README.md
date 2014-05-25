@@ -19,6 +19,6 @@ Scripts;
   [4]: https://github.com/LegendBot/Honda7-Mirror/blob/master/Scripts/Orianna.lua
   [5]: https://github.com/LegendBot/Honda7-Mirror/blob/master/Scripts/Shaco.lua
   [6]: https://github.com/LegendBot/Honda7-Mirror/blob/master/Scripts/Syndra.lua
-  [7]: http://bit.ly/1p8Lkwz
+  [7]: https://github.com/LegendBot/Honda7-Mirror/blob/master/Scripts/TwistedFate.lua
   [8]: https://github.com/LegendBot/Honda7-Mirror/blob/master/Scripts/Veigar.lua
   [9]: https://github.com/LegendBot/Honda7-Mirror/blob/master/Scripts/Xerath.lua
